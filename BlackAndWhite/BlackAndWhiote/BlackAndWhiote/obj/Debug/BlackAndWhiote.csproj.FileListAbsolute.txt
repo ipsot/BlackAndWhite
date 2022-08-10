@@ -1,0 +1,6 @@
+\\mac\home\documents\visual studio 2015\Projects\BlackAndWhiote\BlackAndWhiote\bin\Debug\BlackAndWhiote.exe.config
+\\mac\home\documents\visual studio 2015\Projects\BlackAndWhiote\BlackAndWhiote\bin\Debug\BlackAndWhiote.exe
+\\mac\home\documents\visual studio 2015\Projects\BlackAndWhiote\BlackAndWhiote\bin\Debug\BlackAndWhiote.pdb
+\\mac\home\documents\visual studio 2015\Projects\BlackAndWhiote\BlackAndWhiote\obj\Debug\BlackAndWhiote.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\BlackAndWhiote\BlackAndWhiote\obj\Debug\BlackAndWhiote.exe
+\\mac\home\documents\visual studio 2015\Projects\BlackAndWhiote\BlackAndWhiote\obj\Debug\BlackAndWhiote.pdb
